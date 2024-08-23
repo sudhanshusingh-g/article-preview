@@ -4,14 +4,14 @@
 
 > Desktop
 
-![Desktop](<MacBook Pro-1724397535259.jpeg>)
+![Desktop](<desktop.jpeg>)
 
 > Tablet
-![Tablet](iPad-1724397508836.jpeg)
+![Tablet](tablet.jpeg)
 
 > Mobile
-![Mobile](<iPhone 12 Pro-1724397497802.jpeg>)
+![Mobile](<mobile.jpeg>)
 
 
-[Live]()
-[Github]()
+[Live](https://sudhanshusingh-g.github.io/article-preview/)
+[Github](https://github.com/sudhanshusingh-g/article-preview)
